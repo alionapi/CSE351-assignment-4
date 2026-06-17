@@ -1,11 +1,5 @@
 # CSE351-assignment-4
-CSE351: Computer Networks | Fall 2025 | Programming Assignment 4
-
-# CSE351 Programming Assignment #4
-
-Simple IP Router
-
-## Overview
+CSE351: Computer Networks | Fall 2025 | Programming Assignment 4 | Simple IP Router
 
 This project implements a virtual IP router in a Mininet-based network environment. The router processes raw Ethernet frames and supports packet forwarding, ARP resolution, ICMP message generation, and IP packet filtering.
 
