@@ -137,9 +137,3 @@ The implementation enables:
 * Routing table based forwarding
 * Packet filtering through IP blacklisting
 * Recovery from unreachable hosts and expired ARP requests
-
-## Course Information
-
-**Course:** CSE351 Computer Networks
-**Semester:** Fall 2025
-**Institution:** UNIST
