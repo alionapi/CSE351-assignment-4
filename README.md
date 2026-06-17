@@ -24,7 +24,7 @@ The implementation focuses on router logic, including forwarding decisions, ARP 
 .
 ├── CSE351_PA4.pdf      # Assignment specification
 ├── README.md           # Repository documentation
-├── report.pdf          # submission report
+├── report.pdf          # assignment report
 ├── sr_router.c         # Router forwarding and ICMP logic
 └── sr_arpcache.c       # ARP cache and ARP request handling
 ```
