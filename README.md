@@ -138,3 +138,17 @@ The implementation enables:
 * Routing table based forwarding
 * Packet filtering through IP blacklisting
 * Recovery from unreachable hosts and expired ARP requests
+
+
+## Development Environment
+
+This project was developed using the provided CSE351 virtual machine and the Stanford Simple Router framework.
+
+The router was tested in a Mininet-based virtual network environment using:
+
+- Ubuntu 20.04
+- Mininet
+- POX Controller
+- Stanford Simple Router framework
+
+Only the required source files modified for the assignment are included in this repository.
