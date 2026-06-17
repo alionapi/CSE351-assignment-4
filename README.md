@@ -142,7 +142,7 @@ The implementation enables:
 
 ## Development Environment
 
-This project was developed using the provided CSE351 virtual machine and the Stanford Simple Router framework.
+This project was developed using the provided CSE351 virtual machine and the Stanford Simple Router framework by the course instructor.
 
 The router was tested in a Mininet-based virtual network environment using:
 
